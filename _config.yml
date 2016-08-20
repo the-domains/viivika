@@ -1,3 +1,4 @@
+layout_spectrum: 0.4268004
 typography_spectrum: 0.02552515
 color:
   saturation: 0.5015991
@@ -10,6 +11,4 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-layout_spectrum: 0.4268004
 name: viivika
-description: 'My own pics, a bit of a mix'
