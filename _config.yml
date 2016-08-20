@@ -1,0 +1,15 @@
+typography_spectrum: 0.02552515
+color:
+  saturation: 0.5015991
+  lightness: 0.01034468
+  brandStrength: 0.6425419
+  rhythmicContrast: 0.1349738
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+layout_spectrum: 0.4268004
+name: viivika
+description: 'My own pics, a bit of a mix'
